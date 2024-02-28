@@ -1,0 +1,81 @@
+=======	===================================================================== =======
+Percent Section                                                                 
+=======	===================================================================== =======
+        Section requirements
+
+        Point deduction (if any) with explanations.                       
+                                                                          Score / Max
+-------------------------------------------------------------------------------------
+
+=======	===================================================================== =======
+20      Texturing
+=======	===================================================================== =======
+	- 4 pts - Skybox rendered surrounding entire world
+	- 4 pts - Textures read in properly with filtering parameters set
+	-12 pts - Skybox images correctly oriented (2pt per side)
+
+									      20/20
+=======	===================================================================== =======
+ 5      File I/O
+=======	===================================================================== =======
+	-2.5 pts - Control points read in properly with user submitted file
+	-1.25 pts - Control points are read in from file correctly using file 1
+			which has 7 control points (ring.csv)
+	-1.25 pts - Control points are read in from file correctly using file 2
+			which has 13 control points (spiral.csv)
+
+									       5/5
+=======	===================================================================== =======
+35      Drawing
+=======	===================================================================== =======
+	- 5 pts - Bezier curve is evaluated correctly
+	- 5 pts - Bezier curve is drawn correctly
+	- 5 pts - Control vertices of the Bezier curve are drawn correctly.
+	- 5 pts - Control cage is drawn correctly.
+	- 5 pts - Control cage and points can be toggled (2.5 pts each)
+	- 2.5 pts - Curve is centered around hero
+	- 2.5 pts - Curve translates with hero
+	- 5 pts - Curve rotates with hero
+
+                                                                                  35/35
+=======	===================================================================== =======
+30      Animation
+=======	===================================================================== =======
+	- 5 pts - Object moves correctly along curve ** 
+	- 5 pts - Object jumps back to start at the end of the curve
+	- 5 pts - Object moves by equal parameter steps
+	-10 pts - Object moves by equal arc length steps
+	- 5 pts - parameter/arc length can be toggled
+
+                                                                                  27.5/30
+=======	===================================================================== =======
+ 5      Camera
+=======	===================================================================== =======
+	- 5 pts - Camera follows an arcball or free camera model.  Camera model
+			implemented correctly
+
+                                                                                   5/5
+=======	===================================================================== =======
+  5     Documentation
+=======	===================================================================== =======
+          1 pt  - Submission includes well documented source code. 
+          1 pt  - Submission includes README.txt, structured as specified in the 
+                  homework description on the website.
+          1 pt  - Submission includes webpage.  
+                  (Webpage must be named <HeroName>.html!)
+          2 pt  - Submission compiles and executes             
+
+                                                                                   5/5
+=======	===================================================================== =======
+Subtotal                                                                         97.5/100
+=======	===================================================================== =======
+
+=======	===================================================================== =======
+        Deductions                                                                            
+=======	===================================================================== =======
+
+
+=======	===================================================================== =======
+Total                                                                            /100
+=======	===================================================================== =======
++mobius
